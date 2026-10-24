@@ -1,6 +1,13 @@
 # OpenHands — автоматизация разработки ПО с помощью AI-агентов
 
-OpenHands — open-source платформа AI-агентов для автоматизации инженерных задач. Агент обновляет зависимости, генерирует тесты, разрешает конфликты слияния и помогает исправлять ошибки в коде.
+[![Version](https://img.shields.io/badge/version-1.25.0-blue)](https://github.com/OpenHands/OpenHands/releases)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.12%2B-blue)](https://pypi.org/project/openhands/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/all-hands-ai/openhands)](https://hub.docker.com/r/all-hands-ai/openhands)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/OpenHands/OpenHands/badge)](https://securityscorecards.dev/viewer/?uri=github.com/OpenHands/OpenHands)
+[![SWE-Bench](https://img.shields.io/badge/SWE--Bench-77.6%25-important)](https://www.swebench.com/)
+
+**OpenHands**  — open-source платформа AI-агентов для автоматизации инженерных задач. Агент обновляет зависимости, генерирует тесты, разрешает конфликты слияния и помогает исправлять ошибки в коде.
 
 ## Содержание
 
