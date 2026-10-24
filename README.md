@@ -671,11 +671,3 @@ Enterprise (`enterprise/` directory): separate proprietary license.
 ```
 
 Trademark: "OpenHands" and "OpenDevin" are trademarks of All Hands AI.
-
-## Acknowledgments & Star History
-
-Спасибо всем контрибьюторам!
-
-[![Contributors](https://contrib.rocks/image?repo=OpenHands/OpenHands)](https://github.com/OpenHands/OpenHands/graphs/contributors)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenHands/OpenHands&type=Date)](https://star-history.com/#OpenHands/OpenHands&Date)
