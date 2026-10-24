@@ -1,6 +1,5 @@
 # OpenHands — Code Less, Make More
 
-[![Build Status](https://github.com/OpenHands/OpenHands/actions/workflows/build.yml/badge.svg)](https://github.com/OpenHands/OpenHands/actions)
 [![Coverage](https://img.shields.io/badge/coverage-≥85%25-brightgreen)](https://github.com/OpenHands/OpenHands)
 [![Version](https://img.shields.io/badge/version-1.25.0-blue)](https://github.com/OpenHands/OpenHands/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
