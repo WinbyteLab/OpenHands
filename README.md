@@ -6,7 +6,6 @@
 [![Downloads](https://img.shields.io/pypi/dm/openhands)](https://pypi.org/project/openhands/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/all-hands-ai/openhands)](https://hub.docker.com/r/all-hands-ai/openhands)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/OpenHands/OpenHands/badge)](https://securityscorecards.dev/viewer/?uri=github.com/OpenHands/OpenHands)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/OpenHands/badge)](https://bestpractices.coreinfrastructure.org/projects/OpenHands)
 [![SWE-Bench](https://img.shields.io/badge/SWE--Bench-77.6%25-important)](https://www.swebench.com/)
 
 **OpenHands** — open-source платформа AI-агентов для автоматизации разработки ПО. Проект решает реальные инженерные задачи: dependency upgrades, генерацию unit-тестов, разрешение merge conflicts, сканирование уязвимостей. Аудитория: developers, researchers, enterprises.
