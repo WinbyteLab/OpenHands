@@ -330,4 +330,3 @@ curl -X POST http://localhost:3000/api/v1/conversations \
 | `Sandbox image pull failed` | Проверьте доступ к `docker.all-hands.dev` и правильность тега образа. |
 | `openhands: command not found` после uv | Добавьте `~/.local/bin` в `PATH` и перезапустите терминал. |
 | Агент не видит файлы проекта | Смонтируйте каталог через `SANDBOX_VOLUMES` или флаг `--mount-cwd`. |
-```
